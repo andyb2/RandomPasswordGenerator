@@ -34,7 +34,7 @@ valid.
 ## ```If the user selects cancel the generator will not include it in the password.```
 
 ![Screen shot of lowercase letters prompt ](PasswordGenScreenshots/lowerCasePromptSS.jpg)
-![Screen shot of uppercase letters prompt](PasswordGenScreenshots/upperCasePromptSS.jpg)
+![Screen shot of uppercase letters prompt](PasswordGenScreenshots/uppercasePromptSS.jpg)
 
 ![Screen shot of numbers prompt](PasswordGenScreenshots/numbersPromptSS.jpg)
 ![Screen shot of special characters prompt](PasswordGenScreenshots/specialCharPromptSS.jpg)
