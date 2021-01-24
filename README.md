@@ -39,8 +39,7 @@ valid.
 ![Screen shot of numbers prompt](PasswordGenScreenshots/numbersPromptSS.jpg)
 ![Screen shot of special characters prompt](PasswordGenScreenshots/specialCharPromptSS.jpg)
 
-## ```Once the user has chosen their custom password the output will display in the```
-## ```window above the generate button.```
+## ```Once the user has chosen their custom password the output will display in the window above the generate button.```
 
 ![Screen shot a password generated](PasswordGenScreenshots/passwordGenOutputSS.jpg)
 
